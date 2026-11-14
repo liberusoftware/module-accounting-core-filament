@@ -4,7 +4,7 @@
   "display_name": "Accounting Core Filament",
   "description": "Filament 5 presentation adapter for Accounting Core.",
   "provider": "Liberu\\Accounting\\CoreFilament\\AccountingCoreFilamentServiceProvider",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "presentation",
   "requires": {
     "php": "^8.5",
